@@ -1,0 +1,6 @@
+{
+  "name": "Maze ML",
+  "description": "An reinforcement learning simulator where a mouse learns to solve a maze.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
